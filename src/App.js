@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           This is fun!! :)
+          Checking git push
         </p>
         <a
           className="App-link"
