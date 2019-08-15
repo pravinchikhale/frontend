@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Trying full CI/CD with feature -> master pull and then test -> deploy.
+          Trying full CI/CD with feature -> master pull and then test -> deploy. And fun.
         </p>
         <a
           className="App-link"
