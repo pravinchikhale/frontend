@@ -5,6 +5,7 @@ services:
 
 before_install:
   - docker build  -t pravinchikhale/frontend -f Dockerfile.dev .
+  - echo "Hello Wify, good morning!"
 
 script:
   - docker run -e CI=true pravinchikhale/frontend npm run test
